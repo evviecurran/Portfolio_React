@@ -1,5 +1,7 @@
 # Portfolio_React
 
+ADD TO README
+
 About the project
 AS AN user looking to make a single page web application about my work portfolio
 I WANT to be able to showcase my work 

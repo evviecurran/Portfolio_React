@@ -1,12 +1,12 @@
 import React from 'react';
-// import coloradoImage from  '../../assets/colorado.jpg';
+import myselfImage from  '../../assets/Myself.jpg';
 
 function About() {
   return (
     <section className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
-           {/* <img src={coloradoImage} alt="" className="prof" /> */}
+           <img src={myselfImage} alt="" className="prof" />
         </div>
         <p>
         Hi I am Evelyn, and I am a full stack developer. 
